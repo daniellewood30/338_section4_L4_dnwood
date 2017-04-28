@@ -1,0 +1,15 @@
+.if-section{
+  background-color: black;
+  margin: 50px;
+}
+
+
+}
+
+.white-text{
+  color: white;
+  font-size: 30pt;
+  position: relative;
+  top: -900px;
+  left: 1200px;
+}
