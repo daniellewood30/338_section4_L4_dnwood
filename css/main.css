@@ -1,32 +1,53 @@
 .if-section{
   background-color: black;
   margin: 50px;
+  width: 1500px;
+  height: 1500px;
 }
 
+
 #if{
+
   margin-bottom: -200px;
   margin-left: -50px;
+  width: 1230px;
   }
 
 .white-text{
   color: white;
-  font-size: 25pt;
+  font-size: 30pt;
   position: relative;
-  top: -800px;
-  left: 1200px;
+  top: -500px;
+  left: 800px;
 }
 
 .orange-text{
-  color: red;
-  font-size: 40pt;
+  color: #f45721;
+  font-size: 30pt;
   position:relative;
-  bottom: -95px;
+  bottom: -75px;
 }
 
 #adobe{
   width:600px;
   height:400px;
   position: relative;
-  right: -1300px;
+  right: -1100px;
   top: -270px
+}
+
+#website{
+  color: #8c8380;
+  font-size: 25pt;
+  position: relative;
+  top: -400px;
+  right: -300px;
+
+}
+.text{
+  font-size: 12pt;
+}
+
+.hr{
+  width:1500px;
 }
