@@ -2,7 +2,7 @@
   background-color: black;
   margin: 50px;
   width: 1500px;
-  height: 1500px;
+  height: 1450px;
 }
 
 
@@ -10,7 +10,7 @@
 
   margin-bottom: -200px;
   margin-left: -50px;
-  width: 1230px;
+  width: 1200px;
   }
 
 .white-text{
@@ -32,20 +32,23 @@
   width:600px;
   height:400px;
   position: relative;
-  right: -1100px;
+  right: -1000px;
   top: -270px
 }
 
 #website{
   color: #8c8380;
-  font-size: 25pt;
+  font-size: 22pt;
   position: relative;
   top: -400px;
   right: -300px;
 
 }
 .text{
-  font-size: 12pt;
+  font-size: 18pt;
+  width: 500px;
+  position: relative;
+  top: -400px;
 }
 
 .hr{
